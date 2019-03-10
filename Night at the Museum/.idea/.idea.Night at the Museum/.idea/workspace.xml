@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31527ee6-9782-41d1-9403-283d8f169d39" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RotateSkybox.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="59" />
+              <folding>
+                <marker date="1551891828556" expanded="true" signature="62:342" ph="{...}" />
+                <marker date="1551891828556" expanded="true" signature="155:221" ph="{...}" />
+                <marker date="1551891828556" expanded="true" signature="248:340" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WaypointMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <folding>
+                <marker date="1551900582908" expanded="true" signature="66:778" ph="{...}" />
+                <marker date="1551900582908" expanded="true" signature="247:776" ph="{...}" />
+                <marker date="1551900582908" expanded="true" signature="438:684" ph="{...}" />
+                <marker date="1551900582908" expanded="true" signature="697:770" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameLogic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <marker date="1552048366646" expanded="false" signature="7:66" ph="..." />
+                <marker date="1552048366646" expanded="true" signature="106:794" ph="{...}" />
+                <marker date="1552048366646" expanded="true" signature="230:385" ph="{...}" />
+                <marker date="1552048366646" expanded="true" signature="320:379" ph="{...}" />
+                <marker date="1552048366646" expanded="true" signature="391:456" ph="/* Exibe a próxima interface (UI) com instruções. ... */" />
+                <marker date="1552048366646" expanded="true" signature="490:611" ph="{...}" />
+                <marker date="1552048366646" expanded="true" signature="617:665" ph="/* Inicia a exploração do museu. ... */" />
+                <marker date="1552048366646" expanded="true" signature="700:791" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlVideoPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding>
+                <marker date="1552048881149" expanded="true" signature="6:65" ph="..." />
+                <marker date="1552048881149" expanded="true" signature="114:726" ph="{...}" />
+                <marker date="1552048881149" expanded="true" signature="232:370" ph="{...}" />
+                <marker date="1552048881149" expanded="true" signature="376:464" ph="/* Inicia/pausa o vídeo informado. ... */" />
+                <marker date="1552048881149" expanded="true" signature="492:724" ph="{...}" />
+                <marker date="1552048881149" expanded="true" signature="533:619" ph="{...}" />
+                <marker date="1552048881149" expanded="true" signature="632:718" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>depre</find>
+      <find>Input.GetMouseButtonDown</find>
+      <find>touch</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RotateSkybox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameLogic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ControlVideoPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/ResonanceAudio/Scripts/ResonanceAudioSource.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Module 4/Game/VR-Design - Puzzler/Puzzler/Assets/UdacityVR/Scripts/GameLogic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WaypointMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/Controller/GvrControllerInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/Controller/ArmModel/GvrArmModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Space.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateEnv.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RotateSkybox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WaypointMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameLogic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ControlVideoPlayer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="697" />
+    <option name="height" value="376" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31527ee6-9782-41d1-9403-283d8f169d39" name="Default Changelist" comment="" />
+      <created>1551890567846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551890567846</updated>
+      <workItem from="1551890596910" duration="2981000" />
+      <workItem from="1551897593482" duration="2948000" />
+      <workItem from="1551909827696" duration="3251000" />
+      <workItem from="1551961293418" duration="5641000" />
+      <workItem from="1552047916917" duration="2421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17242000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Unity" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="6" />
+    </layout>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Space.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RotateEnv.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Pixelplacement/iTween/ReadMe!/ReadMe!.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/ResonanceAudio/Demos/Scripts/ResonanceAudioDemo/ResonanceAudioDemoManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/ResonanceAudio/Demos/Scripts/ResonanceAudioDemo/ResonanceAudioDemoCubeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/Controller/GvrControllerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="18" />
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:838" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="946713600000" expanded="false" signature="846:919" ph="..." />
+            <marker date="946713600000" expanded="true" signature="921:1073" ph="/// Represents a controller's current connection state. ... " />
+            <marker date="946713600000" expanded="true" signature="1104:1493" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1495:1603" ph="/// Represents the status of the controller API. ... " />
+            <marker date="946713600000" expanded="true" signature="1638:2730" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1645:1740" ph="/// A Unity-localized error occurred. ... " />
+            <marker date="946713600000" expanded="true" signature="1762:1919" ph="/// API is happy and healthy. This doesn't mean any controllers are ... " />
+            <marker date="946713600000" expanded="true" signature="1937:2168" ph="/// Any other status represents a permanent failure that requires ... " />
+            <marker date="946713600000" expanded="true" signature="2195:2337" ph="/// This app was not authorized to use the service (e.g., missing permissions, ... " />
+            <marker date="946713600000" expanded="true" signature="2732:2844" ph="/// Represents a controller's current battery level. ... " />
+            <marker date="946713600000" expanded="true" signature="2882:3480" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2889:2984" ph="/// A Unity-localized error occurred. ... " />
+            <marker date="946713600000" expanded="true" signature="3482:3609" ph="/// Represents controller buttons. ... " />
+            <marker date="946713600000" expanded="true" signature="3641:4180" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4249:4416" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4418:4947" ph="/// Main entry point for the Daydream controller API. ... " />
+            <marker date="946713600000" expanded="true" signature="5082:27231" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5355:5514" ph="/// Event handler for receiving button, touchpad, and IMU updates from the controllers. ... " />
+            <marker date="946713600000" expanded="true" signature="5577:5704" ph="/// Event handler for receiving a second notification callback, after all ... " />
+            <marker date="946713600000" expanded="true" signature="5950:6275" ph="/// Event handler for when controller devices have changed. Any code that stores a ... " />
+            <marker date="946713600000" expanded="true" signature="6323:6732" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6448:6536" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6659:6726" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6963:7591" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="6981:7274" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7029:7111" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7128:7264" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7290:7585" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7338:7420" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7437:7575" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7697:7749" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7772:8248" ph="[...]" />
+            <marker date="946713600000" expanded="true" signature="8732:9460" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="8773:8818" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="8991:9235" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9047:9129" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9146:9225" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9287:9340" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9353:9454" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9466:9614" ph="/// Returns the dominant controller's current connection state. Returns ... " />
+            <marker date="946713600000" expanded="true" signature="9726:9926" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9744:9920" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9793:9870" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9932:10066" ph="/// Returns the status of the controller API. Returns ... " />
+            <marker date="946713600000" expanded="true" signature="10117:10325" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10135:10319" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10184:10265" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10331:10443" ph="/// Returns true if battery status is supported. Returns false if ... " />
+            <marker date="946713600000" expanded="true" signature="10488:10696" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10506:10690" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10560:10618" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10702:11282" ph="/// Returns the dominant controller's current orientation in space, as a quaternion. ... " />
+            <marker date="946713600000" expanded="true" signature="11398:11599" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11416:11593" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11465:11537" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11605:12110" ph="/// Returns the dominant controller's current angular speed in radians per second, using the right-hand ... " />
+            <marker date="946713600000" expanded="true" signature="12209:12396" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12227:12390" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12276:12341" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12402:13143" ph="/// Returns the dominant controller's current acceleration in meters per second squared. ... " />
+            <marker date="946713600000" expanded="true" signature="13244:13432" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13262:13426" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13311:13376" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13438:13581" ph="/// Returns true while the user is touching the dominant controller's touchpad. Returns ... " />
+            <marker date="946713600000" expanded="true" signature="13723:13943" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13741:13937" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13790:13848" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13949:14288" ph="/// Returns true in the frame the user starts touching the dominant controller's touchpad. ... " />
+            <marker date="946713600000" expanded="true" signature="14433:14657" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="14451:14651" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="14500:14558" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="14663:15007" ph="/// Returns true the frame after the user stops touching the dominant controller's touchpad. ... " />
+            <marker date="946713600000" expanded="true" signature="15148:15370" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15166:15364" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15215:15273" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15376:15776" ph="/// Position of the dominant controller's current touch, if touching the touchpad. ... " />
+            <marker date="946713600000" expanded="true" signature="15912:16262" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15930:16256" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15979:16055" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16268:16739" ph="/// Position of the dominant controller's current touch, if touching the touchpad. ... " />
+            <marker date="946713600000" expanded="true" signature="16854:17045" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16872:17039" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16921:16986" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17268:17338" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17286:17332" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17344:17717" ph="/// Returns true if the user just completed the recenter gesture. Returns false if ... " />
+            <marker date="946713600000" expanded="true" signature="17751:17937" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17769:17931" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17818:17876" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17943:18092" ph="/// Returns true while the user holds down the dominant controller's touchpad button. ... " />
+            <marker date="946713600000" expanded="true" signature="18236:18457" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="18254:18451" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="18303:18361" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="18463:18846" ph="/// Returns true in the frame the user starts pressing down the dominant controller's ... " />
+            <marker date="946713600000" expanded="true" signature="18998:19223" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19016:19217" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19065:19123" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19229:19617" ph="/// Returns true the frame after the user stops pressing down the dominant controller's ... " />
+            <marker date="946713600000" expanded="true" signature="19765:19988" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19783:19982" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19832:19890" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19994:20138" ph="/// Returns true while the user holds down the dominant controller's app button. Returns ... " />
+            <marker date="946713600000" expanded="true" signature="20269:20479" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20287:20473" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20336:20394" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20485:20847" ph="/// Returns true in the frame the user starts pressing down the dominant controller's app button. ... " />
+            <marker date="946713600000" expanded="true" signature="20986:21200" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21004:21194" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21053:21111" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21206:21573" ph="/// Returns true the frame after the user stops pressing down the dominant controller's app button. ... " />
+            <marker date="946713600000" expanded="true" signature="21708:21920" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21726:21914" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21775:21833" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="21926:22090" ph="/// Returns true in the frame the user starts pressing down the dominant controller's system button. ... " />
+            <marker date="946713600000" expanded="true" signature="22233:22450" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22251:22444" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22300:22358" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22456:22603" ph="/// Returns true while the user holds down the dominant controller's system button. ... " />
+            <marker date="946713600000" expanded="true" signature="22743:22956" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22761:22950" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22810:22868" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="22962:23190" ph="/// If the dominant controller's state == GvrConnectionState.Error, this contains details about ... " />
+            <marker date="946713600000" expanded="true" signature="23304:23651" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="23322:23645" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="23370:23448" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="23465:23635" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="23657:23836" ph="/// Returns the GVR C library controller state pointer (gvr_controller_state*) for the dominant ... " />
+            <marker date="946713600000" expanded="true" signature="23942:24132" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="23960:24126" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24009:24073" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24138:24273" ph="/// Returns true if the dominant controller is currently being charged. Returns false if ... " />
+            <marker date="946713600000" expanded="true" signature="24381:24567" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24399:24561" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24448:24506" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24573:24732" ph="/// Returns the dominant controller's current battery charge level. Returns ... " />
+            <marker date="946713600000" expanded="true" signature="24865:25079" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24883:25073" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="24932:25016" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25097:26120" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25137:25366" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25407:25518" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25714:25814" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25861:25921" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="25931:26059" ph="/* Keep screen on here, since GvrControllerInput must be in any GVR scene in order to enable ... */" />
+            <marker date="946713600000" expanded="true" signature="26139:26534" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26189:26306" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26233:26296" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26353:26413" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26464:26528" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26556:26887" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26606:26721" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26821:26881" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26929:27229" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="26975:27015" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="27036:27098" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="27111:27223" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4360">
+          <caret line="231" column="58" selection-start-line="231" selection-start-column="58" selection-end-line="231" selection-end-column="58" />
+          <folding>
+            <marker date="1551917910111" expanded="true" signature="0:834" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1551917910111" expanded="false" signature="842:886" ph="..." />
+            <marker date="1551917910111" expanded="true" signature="888:1610" ph="/// This abstract class should be implemented for pointer based input, and used with ... " />
+            <marker date="1551917910111" expanded="true" signature="1698:26609" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="1705:1808" ph="/* When using a Daydream (3DoF) controller: ... */" />
+            <marker date="1551917910111" expanded="true" signature="1917:2081" ph="/* When using a Daydream 6DoF controller: ... */" />
+            <marker date="1551917910111" expanded="true" signature="2612:4664" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="2627:3824" ph="/// Casts a ray from the camera through the target of the pointer. ... " />
+            <marker date="1551917910111" expanded="true" signature="3850:3966" ph="/// Cast a ray directly from the pointer origin. ... " />
+            <marker date="1551917910111" expanded="true" signature="3992:4642" ph="/// Default method for casting ray. ... " />
+            <marker date="1551917910111" expanded="true" signature="4670:4813" ph="/// Represents a ray segment for a series of intersecting rays. ... " />
+            <marker date="1551917910111" expanded="true" signature="4842:5140" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="5146:5408" ph="/// Determines which raycast mode to use for this raycaster. ... " />
+            <marker date="1551917910111" expanded="true" signature="5413:5642" ph="[...]" />
+            <marker date="1551917910111" expanded="true" signature="5705:5947" ph="/// Determines the eventCamera for _GvrPointerPhysicsRaycaster_ and _GvrPointerGraphicRaycaster_. ... " />
+            <marker date="1551917910111" expanded="true" signature="6427:6506" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="6687:6843" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="6705:6837" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7033:7194" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7051:7188" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7200:7385" ph="/// This is used to determine if the enterRadius or the exitRadius should be used for the raycast. ... " />
+            <marker date="1551917910111" expanded="true" signature="7451:7566" ph="/// If ShouldUseExitRadiusForRaycast is true, returns the exit radius. ... " />
+            <marker date="1551917910111" expanded="true" signature="7604:7945" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7622:7939" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7785:7848" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7865:7929" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="7951:8078" ph="/// Returns the transform that represents this pointer. ... " />
+            <marker date="1551917910111" expanded="true" signature="8124:8170" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="8345:8444" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="8483:10728" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="8537:10722" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="8762:8865" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="8882:8963" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9072:9178" ph="/* Cardboard button events come through as mouse button 0 and are ... */" />
+            <marker date="1551917910111" expanded="true" signature="9223:9317" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9361:9453" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9501:9655" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9861:9934" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9951:10204" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="9982:10119" ph="/* Mask off everything except the right-most bit that is set in case ... */" />
+            <marker date="1551917910111" expanded="true" signature="10320:10547" ph="/* Build trigger button state from filtered ups and downs to ensure ... */" />
+            <marker date="1551917910111" expanded="true" signature="10734:11045" ph="/// If true, the trigger was just pressed. This is an event flag: ... " />
+            <marker date="1551917910111" expanded="true" signature="11081:11202" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="11099:11196" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="11208:11561" ph="/// If true, the trigger is currently being pressed. This is not ... " />
+            <marker date="1551917910111" expanded="true" signature="11596:11713" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="11614:11707" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="11719:12027" ph="/// If true, the trigger was just released. This is an event flag: ... " />
+            <marker date="1551917910111" expanded="true" signature="12061:12180" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12079:12174" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12239:12569" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12257:12563" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12363:12449" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12466:12553" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12624:12674" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="12680:13069" ph="/// If true, the user just started touching the touchpad. This is an event flag (it is true ... " />
+            <marker date="1551917910111" expanded="true" signature="13103:13392" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13121:13386" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13178:13236" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13253:13376" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13398:13673" ph="/// If true, the user is currently touching the touchpad. ... " />
+            <marker date="1551917910111" expanded="true" signature="13708:13993" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13726:13987" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13783:13841" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13858:13977" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="13999:14386" ph="/// If true, the user just stopped touching the touchpad. This is an event flag (it is true ... " />
+            <marker date="1551917910111" expanded="true" signature="14418:14705" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="14436:14699" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="14493:14551" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="14568:14689" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="14711:15289" ph="/// Position of the current touch, if touching the touchpad. ... " />
+            <marker date="1551917910111" expanded="true" signature="15325:15741" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="15343:15735" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="15400:15465" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="15482:15725" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="15885:16204" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="15903:16198" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16014:16079" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16339:16694" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16357:16688" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16468:16526" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16553:16611" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="16700:16849" ph="/// When using the Camera raycast mode, this is used to calculate ... " />
+            <marker date="1551917910111" expanded="true" signature="16904:16959" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="17051:17249" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="17069:17243" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="17126:17200" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="17396:17669" ph="/// Called when the pointer is facing a valid GameObject. This can be a 3D ... " />
+            <marker date="1551917910111" expanded="true" signature="17765:18053" ph="/// Called every frame the user is still pointing at a valid GameObject. This ... " />
+            <marker date="1551917910111" expanded="true" signature="18155:18488" ph="/// Called when the pointer no longer faces an object previously ... " />
+            <marker date="1551917910111" expanded="true" signature="18736:19364" ph="/// Return the radius of the pointer. It is used by GvrPointerPhysicsRaycaster when ... " />
+            <marker date="1551917910111" expanded="true" signature="19458:19746" ph="/// Returns a point in worldspace a specified distance along the pointer. ... " />
+            <marker date="1551917910111" expanded="true" signature="19802:19956" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="19962:20213" ph="/// Returns the ray used for projecting points out of the pointer for the given distance. ... " />
+            <marker date="1551917910111" expanded="true" signature="20269:20830" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="20369:20713" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="20488:20587" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="20604:20703" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="20726:20800" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="20836:21094" ph="/// Calculates the ray for a given Raycast mode. ... " />
+            <marker date="1551917910111" expanded="true" signature="21178:23082" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="21284:21417" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="21520:21650" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="21728:23052" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="21866:22141" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="23088:23242" ph="/// Calculates the ray for the segment of the Hybrid raycast determined by the raycast mode ... " />
+            <marker date="1551917910111" expanded="true" signature="23338:24214" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="23400:24184" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="24264:24330" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="24412:26584" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="24492:26578" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="24535:26568" ph="{...}" />
+            <marker date="1551917910111" expanded="true" signature="26314:26474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/Controller/ArmModel/GvrArmModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:831" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="946713600000" expanded="false" signature="839:877" ph="..." />
+            <marker date="946713600000" expanded="true" signature="879:1028" ph="/// Standard implementation for a mathematical model to make the virtual controller approximate the ... " />
+            <marker date="946713600000" expanded="true" signature="1186:21068" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1841:1985" ph="/// Ratio of the controller's rotation to apply to the rotation of the elbow. ... " />
+            <marker date="946713600000" expanded="true" signature="2075:2260" ph="/// Offset in front of the controller to determine what position to use when determing if the ... " />
+            <marker date="946713600000" expanded="true" signature="2865:3142" ph="/// When the angle (degrees) between the controller and the head is larger than ... " />
+            <marker date="946713600000" expanded="true" signature="3472:3527" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3659:3714" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3720:3883" ph="/// The suggested rendering alpha value of the controller. ... " />
+            <marker date="946713600000" expanded="true" signature="3924:3975" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3981:4225" ph="/// The suggested rendering alpha value of the controller tooltips. ... " />
+            <marker date="946713600000" expanded="true" signature="4269:4323" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4329:4597" ph="/// Represent the neck's position relative to the user's head. ... " />
+            <marker date="946713600000" expanded="true" signature="4629:4678" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4684:4849" ph="/// Represent the shoulder's position relative to the user's head. ... " />
+            <marker date="946713600000" expanded="true" signature="4885:5088" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4903:5082" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5094:5259" ph="/// Represent the shoulder's rotation relative to the user's head. ... " />
+            <marker date="946713600000" expanded="true" signature="5298:5348" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5450:5500" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5605:5655" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5757:5807" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5912:5962" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="7508:7535" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="7638:7665" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="7773:7800" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="7907:7934" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="7996:8080" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="8559:9028" ph="///Minimum angle in degrees of the controller the for arm extension ... " />
+            <marker date="946713600000" expanded="true" signature="9088:9555" ph="///Maximum angle in degrees of the controller the for arm extension offset ... " />
+            <marker date="946713600000" expanded="true" signature="9663:10192" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="9812:10027" ph="/* Force the torso direction to match the gaze direction immediately. ... */" />
+            <marker date="946713600000" expanded="true" signature="10198:10225" ph="/// @endcond ... " />
+            <marker date="946713600000" expanded="true" signature="10264:10357" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10363:10460" ph="///Updates the arm model when the controller input changes. ... " />
+            <marker date="946713600000" expanded="true" signature="10514:10676" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10784:11204" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="10895:10935" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11066:11125" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11138:11198" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11210:11413" ph="///Updates the arm model torso direction. ... " />
+            <marker date="946713600000" expanded="true" signature="11482:12385" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11853:11917" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="11930:12253" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12505:13142" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12539:13062" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="12562:12672" ph="/* Returns the center of the eyes. ... */" />
+            <marker date="946713600000" expanded="true" signature="12745:12988" ph="/* Find the approximate neck position by Applying an inverse neck model. ... */" />
+            <marker date="946713600000" expanded="true" signature="13075:13136" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13286:14172" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="13833:13960" ph="/* Calculate the lerp rotation, which is used to control how much the rotation of the ... */" />
+            <marker date="946713600000" expanded="true" signature="14328:14578" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="14738:14964" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15085:15243" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="15249:15374" ph="/// Calculate the lerp rotation, which is used to control how much the rotation of the ... " />
+            <marker date="946713600000" expanded="true" signature="15474:15916" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16121:16342" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16488:16722" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="16868:17124" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="17130:17363" ph="/// Controls the transparency of the controller to prevent the controller from clipping through ... " />
+            <marker date="946713600000" expanded="true" signature="17411:19331" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="18511:18610" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="18623:18722" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19102:19207" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19220:19325" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="19485:20060" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20128:21043" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20156:20196" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="20235:20275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Module 4/Game/VR-Design - Puzzler/Puzzler/Assets/UdacityVR/Scripts/GameLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="215" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RotateSkybox.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <marker date="1551891828556" expanded="true" signature="62:342" ph="{...}" />
+            <marker date="1551891828556" expanded="true" signature="155:221" ph="{...}" />
+            <marker date="1551891828556" expanded="true" signature="248:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WaypointMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <marker date="1551900582908" expanded="true" signature="66:778" ph="{...}" />
+            <marker date="1551900582908" expanded="true" signature="247:776" ph="{...}" />
+            <marker date="1551900582908" expanded="true" signature="438:684" ph="{...}" />
+            <marker date="1551900582908" expanded="true" signature="697:770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameLogic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <marker date="1552048366646" expanded="false" signature="7:66" ph="..." />
+            <marker date="1552048366646" expanded="true" signature="106:794" ph="{...}" />
+            <marker date="1552048366646" expanded="true" signature="230:385" ph="{...}" />
+            <marker date="1552048366646" expanded="true" signature="320:379" ph="{...}" />
+            <marker date="1552048366646" expanded="true" signature="391:456" ph="/* Exibe a próxima interface (UI) com instruções. ... */" />
+            <marker date="1552048366646" expanded="true" signature="490:611" ph="{...}" />
+            <marker date="1552048366646" expanded="true" signature="617:665" ph="/* Inicia a exploração do museu. ... */" />
+            <marker date="1552048366646" expanded="true" signature="700:791" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+          <folding>
+            <marker date="946713600000" expanded="true" signature="0:836" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="946713600000" expanded="false" signature="844:956" ph="..." />
+            <marker date="946713600000" expanded="true" signature="958:1077" ph="/// Wraps UnityEngine.EventSystems.ExecuteEvents. ... " />
+            <marker date="946713600000" expanded="true" signature="1127:5683" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1382:1526" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1645:1787" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="1903:2041" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2163:2307" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2427:2569" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2685:2817" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="2942:3014" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3303:3464" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="3805:3986" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4168:4235" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4352:4813" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4488:4807" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4619:4743" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="4880:5192" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5022:5107" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5120:5186" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5262:5681" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5405:5445" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5539:5605" ph="{...}" />
+            <marker date="946713600000" expanded="true" signature="5618:5675" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/ResonanceAudio/Scripts/ResonanceAudioSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <marker date="1522961370000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
+            <marker date="1522961370000" expanded="true" signature="630:740" ph="/// Resonance Audio source component that enhances AudioSource to provide advanced spatial audio ... " />
+            <marker date="1522961370000" expanded="true" signature="909:11041" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="964:1155" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="1404:1599" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="1699:1833" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="1954:2170" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="2287:2423" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="2684:2853" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="2955:3238" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="3316:3466" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="3567:3708" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="3799:3974" ph="[...]" />
+            <marker date="1522961370000" expanded="true" signature="4196:4801" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="5227:5279" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="5316:6016" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="5484:5665" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="5863:6012" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="6058:6373" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="6087:6125" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="6169:6349" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="6441:8395" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="6507:7139" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="7173:8391" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="8444:9317" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="8536:8965" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="8648:8784" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="9100:9214" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="9499:11015" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="9827:9903" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="10099:10691" ph="{...}" />
+            <marker date="1522961370000" expanded="true" signature="10157:10272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ControlVideoPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <marker date="1552048881149" expanded="true" signature="6:65" ph="..." />
+            <marker date="1552048881149" expanded="true" signature="114:726" ph="{...}" />
+            <marker date="1552048881149" expanded="true" signature="232:370" ph="{...}" />
+            <marker date="1552048881149" expanded="true" signature="376:464" ph="/* Inicia/pausa o vídeo informado. ... */" />
+            <marker date="1552048881149" expanded="true" signature="492:724" ph="{...}" />
+            <marker date="1552048881149" expanded="true" signature="533:619" ph="{...}" />
+            <marker date="1552048881149" expanded="true" signature="632:718" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
